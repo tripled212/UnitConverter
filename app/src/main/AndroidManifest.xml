@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UnitConverter">
+        <activity android:name=".Temperature"></activity>
+        <activity android:name=".Area" />
+        <activity android:name=".Length" />
+        <activity android:name=".Time" />
+        <activity android:name=".Weight" />
+        <activity android:name=".Currency" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

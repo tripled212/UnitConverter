@@ -78,7 +78,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CURRENCY"
+            android:text="WEIGHT"
             android:textSize="20sp"
             android:layout_gravity="center"
             android:textAlignment="center"/>
@@ -115,7 +115,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CURRENCY"
+            android:text="TIME"
             android:textSize="20sp"
             android:layout_gravity="center"
             android:textAlignment="center"/>
@@ -143,7 +143,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CURRENCY"
+            android:text="LENGTH"
             android:textSize="20sp"
             android:layout_gravity="center"
             android:textAlignment="center"/>
@@ -180,7 +180,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="CURRENCY"
+                android:text="AREA"
                 android:textSize="20sp"
                 android:layout_gravity="center"
                 android:textAlignment="center"/>
@@ -208,7 +208,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="CURRENCY"
+                android:text="TEMPERATURE"
                 android:textSize="20sp"
                 android:layout_gravity="center"
                 android:textAlignment="center"/>
